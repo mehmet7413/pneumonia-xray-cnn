@@ -73,7 +73,7 @@ chest_xray/
 
 ## 📈 Results & Evaluation
 
-- 📌 Accuracy (Test Set): *~94%* *(update this after training)*
+- 📌 Accuracy (Test Set): *~87%* *(update this after training)*
 - 📌 Visual comparison of predictions (True vs Predicted)
 - 📌 Training vs Validation Accuracy/Loss plots
 
@@ -147,3 +147,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - Dataset by Paul Mooney on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - TensorFlow and Keras documentation for model architecture inspiration
 
+⚠️ Note: The graph below shows an example training for 30 epochs. In this implementation, model is trained for 10 epochs (as seen in code).
